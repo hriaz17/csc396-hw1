@@ -15,12 +15,12 @@ You will need to set up an appropriate coding environment on your computer. Mini
 
 Before you start working on your Jupyter notebooks, create a new branch in your GitHub repository:
 
-1. Go to the repository/fork created for you by GitHub Classroom. It should look like `https://github.com/CSC396-F24/csc396-f24-hw2-<your-username>`.
+1. Go to the repository/fork created for you by GitHub Classroom. It should look like `https://github.com/CSC396-F24/csc396-hw2-<your-username>`.
 2. Create a [branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) through the GitHub interface.
 3. Name your branch as `lastname_firstname_dev` (**important: do not name it anything else**).
 4. Clone the repository and checkout your new branch:
    ```
-   git clone -b lastname_firstname_dev https://github.com/CSC396-F24/csc396-f24-hw2-<your-username>.git
+   git clone -b lastname_firstname_dev https://github.com/CSC396-F24/csc396-hw2-<your-username>.git
    ```
 
 ## Working with Jupyter Notebooks
